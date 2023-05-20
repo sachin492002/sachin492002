@@ -1,6 +1,4 @@
-# Hello there 👋, I'm Sachin But
 
-### Full-Stack developer
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate full-stack developer from Viratnagar ,India</h3>
 
