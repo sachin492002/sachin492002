@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin492002&label=Profile%20views&color=0e75b6&style=flat" alt="sachin492002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin492002" alt="sachin492002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin492002&theme=algolia" alt="sachin492002" /></a> </p>
 
 - 🌱 I’m currently studying **Indian Institute of Information Technology, Sri City**
 
