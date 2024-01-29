@@ -256,7 +256,6 @@
 ---
 
 ![Snake animation](https://github.com/sachin492002/sachin492002/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
